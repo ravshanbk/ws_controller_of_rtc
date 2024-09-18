@@ -6,8 +6,12 @@ publish_to: none
 environment:
   sdk: ^3.4.0
 dependencies:
-  web_socket_client:
-    path: packages/web_socket_client
+  web_socket_client_rtc_test:
+    git:
+      url: https://github.com/ravshanbk/web_socket_client_rtc_test.git
+      ref: main
+
+
 
 
 
