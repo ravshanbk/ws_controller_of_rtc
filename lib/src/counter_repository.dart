@@ -1,5 +1,5 @@
+import 'package:web_socket_client_rtc_test/web_socket_client.dart';
 import 'package:ws_controller_of_rtc/src/models/message_enum.dart';
-import 'package:web_socket_client/web_socket_client.dart';
 
 /// A Dart package which manages the counter domain.
 class CounterRepository {
