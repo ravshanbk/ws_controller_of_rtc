@@ -2,5 +2,5 @@
 library;
 
 export 'package:web_socket_client_rtc_test/web_socket_client.dart'
-    show Connected, ConnectionState ,Reconnected;
+    show Connected, ConnectionState ,Disconnected, Reconnected;
 export 'package:ws_controller_of_rtc/src/counter_repository.dart';
